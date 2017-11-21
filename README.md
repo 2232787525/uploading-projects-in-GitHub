@@ -21,15 +21,19 @@
        ![拖动图片进去](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/建文件夹拖入img.png)
         ![好几个change](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/change.png)
         
-    6. summary Description两个输入框输入后，就可以点击 Commit to master 提交修改内容
-    
+6. summary Description两个输入框输入后，就可以点击 Commit to master 提交修改内容
         很多小伙伴这时候就会兴高采烈的跑去网页看，结果发现自己被骗了，刚刚提交的根本什么都没有嘛
         ![提交后](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/提交后.png)
         其实我们是少了一步。 仔细看这个图。除了后面两个圈圈，其他都是点点。 点点代表已和git同步，倒数第二个圈就是我们刚刚提交的，左下角change那里 还会有一个undo的按钮，标识取消提交此次修改。 这么不人性化的设计我也是醉了。接下来点击圈圈上面的按钮，首次提交应该显示Publish， 第二次后显示Sync
          ![圈圈](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/圈圈、.png)
          
-         7. 点击Publish或Sync后 可以填写 git 上面的仓库信息了，感觉离成功越来越近哈哈。
+     7. 点击Publish或Sync后 可以填写 git 上面的仓库信息了，感觉离成功越来越近哈哈。
          ![git上的仓库信息填写](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/git上的仓库信息填写.png)
          
-         8. 
+     8. 正在pushing
+         ![正在pushing](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/正在push.png)
+         push完成 去git看看吧
+         ![push完成 去git看看吧](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/在网页查看.png)
+         网页效果
+         ![push完成 去git看看吧](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/网页效果.png)
         
