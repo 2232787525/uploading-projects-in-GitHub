@@ -25,4 +25,11 @@
     
         很多小伙伴这时候就会兴高采烈的跑去网页看，结果发现自己被骗了，刚刚提交的根本什么都没有嘛
         ![提交后](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/提交后.png)
-        其实我们是少了一步。
+        其实我们是少了一步。 仔细看这个图。除了后面两个圈圈，其他都是点点。 点点代表已和git同步，倒数第二个圈就是我们刚刚提交的，左下角change那里 还会有一个undo的按钮，标识取消提交此次修改。 这么不人性化的设计我也是醉了。接下来点击圈圈上面的按钮，首次提交应该显示Publish， 第二次后显示Sync
+         ![圈圈](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/圈圈、.png)
+         
+         7. 点击Publish或Sync后 可以填写 git 上面的仓库信息了，感觉离成功越来越近哈哈。
+         ![git上的仓库信息填写](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/git上的仓库信息填写.png)
+         
+         8. 
+        
