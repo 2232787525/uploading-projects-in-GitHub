@@ -23,3 +23,6 @@
         
     6. summary Description两个输入框输入后，就可以点击 Commit to master 提交修改内容
     
+        很多小伙伴这时候就会兴高采烈的跑去网页看，结果发现自己被骗了，刚刚提交的根本什么都没有嘛
+        ![提交后](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/提交后.png)
+        其实我们是少了一步。
