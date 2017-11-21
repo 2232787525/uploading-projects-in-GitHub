@@ -17,3 +17,9 @@
     ![建立自己的仓库](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/屏幕快照%202017-11-21%20下午5.47.45.png)
     
 5. 找到上一步中的 Local Path 本地地址， 或者左侧列表右击 Open in Finder。在这个文件夹中就可以开始修改新建操作
+    下面我在里面建了一个文件夹“img”，然后拖动图片进去。回到客户端可以看到有好几个change
+       ![拖动图片进去](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/建文件夹拖入img.png)
+        ![好几个change](https://github.com/2232787525/uploading-projects-in-GitHub/blob/master/img/change.png)
+        
+    6. summary Description两个输入框输入后，就可以点击 Commit to master 提交修改内容
+    
